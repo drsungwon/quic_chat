@@ -52,4 +52,7 @@ Client
 
 <img src="/screen/server.png" width="1000"/>
 
-<img src="/screen/client.png" width="1000"/>
+<img src="/screen/client-1.png" width="1000"/>
+
+<img src="/screen/client-2.png" width="1000"/>
+
